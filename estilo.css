@@ -3,7 +3,7 @@ body {
 }
 h1 {
   text-align: center;
-  top: 45px;
+  top: -100px;
 }
 .caixa1 {
    position: relative;
@@ -47,7 +47,7 @@ li a:hover{
     width: 100%;
     height: 250px;
     background: #ffffff;
-    top: 800px;
+    top: 950px;
     left: 0;
     margin: 20px;
     border-color: blanchedalmond;
